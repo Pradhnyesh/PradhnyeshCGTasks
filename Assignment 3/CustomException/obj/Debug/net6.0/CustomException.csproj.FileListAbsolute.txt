@@ -1,0 +1,30 @@
+C:\Users\DELL\OneDrive\Desktop\Task-3\CustomException\bin\Debug\net6.0\CustomException.exe
+C:\Users\DELL\OneDrive\Desktop\Task-3\CustomException\bin\Debug\net6.0\CustomException.deps.json
+C:\Users\DELL\OneDrive\Desktop\Task-3\CustomException\bin\Debug\net6.0\CustomException.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Task-3\CustomException\bin\Debug\net6.0\CustomException.dll
+C:\Users\DELL\OneDrive\Desktop\Task-3\CustomException\bin\Debug\net6.0\CustomException.pdb
+C:\Users\DELL\OneDrive\Desktop\Task-3\CustomException\obj\Debug\net6.0\CustomException.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Task-3\CustomException\obj\Debug\net6.0\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Task-3\CustomException\obj\Debug\net6.0\CustomException.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Task-3\CustomException\obj\Debug\net6.0\CustomException.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Task-3\CustomException\obj\Debug\net6.0\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Task-3\CustomException\obj\Debug\net6.0\CustomException.dll
+C:\Users\DELL\OneDrive\Desktop\Task-3\CustomException\obj\Debug\net6.0\refint\CustomException.dll
+C:\Users\DELL\OneDrive\Desktop\Task-3\CustomException\obj\Debug\net6.0\CustomException.pdb
+C:\Users\DELL\OneDrive\Desktop\Task-3\CustomException\obj\Debug\net6.0\CustomException.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\Task-3\CustomException\obj\Debug\net6.0\ref\CustomException.dll
+C:\Users\DELL\OneDrive\Desktop\C# Assignments\Assignment 3\CustomException\bin\Debug\net6.0\CustomException.exe
+C:\Users\DELL\OneDrive\Desktop\C# Assignments\Assignment 3\CustomException\bin\Debug\net6.0\CustomException.deps.json
+C:\Users\DELL\OneDrive\Desktop\C# Assignments\Assignment 3\CustomException\bin\Debug\net6.0\CustomException.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\C# Assignments\Assignment 3\CustomException\bin\Debug\net6.0\CustomException.dll
+C:\Users\DELL\OneDrive\Desktop\C# Assignments\Assignment 3\CustomException\bin\Debug\net6.0\CustomException.pdb
+C:\Users\DELL\OneDrive\Desktop\C# Assignments\Assignment 3\CustomException\obj\Debug\net6.0\CustomException.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\C# Assignments\Assignment 3\CustomException\obj\Debug\net6.0\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\C# Assignments\Assignment 3\CustomException\obj\Debug\net6.0\CustomException.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\C# Assignments\Assignment 3\CustomException\obj\Debug\net6.0\CustomException.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\C# Assignments\Assignment 3\CustomException\obj\Debug\net6.0\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\C# Assignments\Assignment 3\CustomException\obj\Debug\net6.0\CustomException.dll
+C:\Users\DELL\OneDrive\Desktop\C# Assignments\Assignment 3\CustomException\obj\Debug\net6.0\refint\CustomException.dll
+C:\Users\DELL\OneDrive\Desktop\C# Assignments\Assignment 3\CustomException\obj\Debug\net6.0\CustomException.pdb
+C:\Users\DELL\OneDrive\Desktop\C# Assignments\Assignment 3\CustomException\obj\Debug\net6.0\CustomException.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\C# Assignments\Assignment 3\CustomException\obj\Debug\net6.0\ref\CustomException.dll

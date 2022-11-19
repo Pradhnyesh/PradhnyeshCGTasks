@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Desktop\Task-1\Highest_Marks\bin\Debug\net6.0\Highest_Marks.exe
+C:\Users\DELL\OneDrive\Desktop\Task-1\Highest_Marks\bin\Debug\net6.0\Highest_Marks.deps.json
+C:\Users\DELL\OneDrive\Desktop\Task-1\Highest_Marks\bin\Debug\net6.0\Highest_Marks.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Task-1\Highest_Marks\bin\Debug\net6.0\Highest_Marks.dll
+C:\Users\DELL\OneDrive\Desktop\Task-1\Highest_Marks\bin\Debug\net6.0\Highest_Marks.pdb
+C:\Users\DELL\OneDrive\Desktop\Task-1\Highest_Marks\obj\Debug\net6.0\Highest_Marks.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Task-1\Highest_Marks\obj\Debug\net6.0\Highest_Marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Task-1\Highest_Marks\obj\Debug\net6.0\Highest_Marks.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Task-1\Highest_Marks\obj\Debug\net6.0\Highest_Marks.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Task-1\Highest_Marks\obj\Debug\net6.0\Highest_Marks.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Task-1\Highest_Marks\obj\Debug\net6.0\Highest_Marks.dll
+C:\Users\DELL\OneDrive\Desktop\Task-1\Highest_Marks\obj\Debug\net6.0\refint\Highest_Marks.dll
+C:\Users\DELL\OneDrive\Desktop\Task-1\Highest_Marks\obj\Debug\net6.0\Highest_Marks.pdb
+C:\Users\DELL\OneDrive\Desktop\Task-1\Highest_Marks\obj\Debug\net6.0\Highest_Marks.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\Task-1\Highest_Marks\obj\Debug\net6.0\ref\Highest_Marks.dll

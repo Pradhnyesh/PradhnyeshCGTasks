@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Desktop\Task-1\intswap\bin\Debug\net6.0\intswap.exe
+C:\Users\DELL\OneDrive\Desktop\Task-1\intswap\bin\Debug\net6.0\intswap.deps.json
+C:\Users\DELL\OneDrive\Desktop\Task-1\intswap\bin\Debug\net6.0\intswap.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Task-1\intswap\bin\Debug\net6.0\intswap.dll
+C:\Users\DELL\OneDrive\Desktop\Task-1\intswap\bin\Debug\net6.0\intswap.pdb
+C:\Users\DELL\OneDrive\Desktop\Task-1\intswap\obj\Debug\net6.0\intswap.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Task-1\intswap\obj\Debug\net6.0\intswap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Task-1\intswap\obj\Debug\net6.0\intswap.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Task-1\intswap\obj\Debug\net6.0\intswap.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Task-1\intswap\obj\Debug\net6.0\intswap.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Task-1\intswap\obj\Debug\net6.0\intswap.dll
+C:\Users\DELL\OneDrive\Desktop\Task-1\intswap\obj\Debug\net6.0\refint\intswap.dll
+C:\Users\DELL\OneDrive\Desktop\Task-1\intswap\obj\Debug\net6.0\intswap.pdb
+C:\Users\DELL\OneDrive\Desktop\Task-1\intswap\obj\Debug\net6.0\intswap.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\Task-1\intswap\obj\Debug\net6.0\ref\intswap.dll

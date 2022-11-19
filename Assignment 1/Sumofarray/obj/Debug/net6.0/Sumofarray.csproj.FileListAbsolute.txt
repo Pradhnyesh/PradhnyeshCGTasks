@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Desktop\Task-1\Sumofarray\bin\Debug\net6.0\Sumofarray.exe
+C:\Users\DELL\OneDrive\Desktop\Task-1\Sumofarray\bin\Debug\net6.0\Sumofarray.deps.json
+C:\Users\DELL\OneDrive\Desktop\Task-1\Sumofarray\bin\Debug\net6.0\Sumofarray.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Task-1\Sumofarray\bin\Debug\net6.0\Sumofarray.dll
+C:\Users\DELL\OneDrive\Desktop\Task-1\Sumofarray\bin\Debug\net6.0\Sumofarray.pdb
+C:\Users\DELL\OneDrive\Desktop\Task-1\Sumofarray\obj\Debug\net6.0\Sumofarray.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Task-1\Sumofarray\obj\Debug\net6.0\Sumofarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Task-1\Sumofarray\obj\Debug\net6.0\Sumofarray.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Task-1\Sumofarray\obj\Debug\net6.0\Sumofarray.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Task-1\Sumofarray\obj\Debug\net6.0\Sumofarray.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Task-1\Sumofarray\obj\Debug\net6.0\Sumofarray.dll
+C:\Users\DELL\OneDrive\Desktop\Task-1\Sumofarray\obj\Debug\net6.0\refint\Sumofarray.dll
+C:\Users\DELL\OneDrive\Desktop\Task-1\Sumofarray\obj\Debug\net6.0\Sumofarray.pdb
+C:\Users\DELL\OneDrive\Desktop\Task-1\Sumofarray\obj\Debug\net6.0\Sumofarray.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\Task-1\Sumofarray\obj\Debug\net6.0\ref\Sumofarray.dll
